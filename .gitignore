@@ -3,3 +3,16 @@
 ################################################################################
 
 *.testlog
+*.opendb
+*.manifest
+*.db
+*.sqlite
+*.json
+*.sqlite-journal
+*.tlog
+*.log
+*.obj
+*.pdb
+*.idb
+*.xml
+*.sarif
